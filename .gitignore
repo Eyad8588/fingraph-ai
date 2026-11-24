@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+.pytest_cache/
+.DS_Store
+.models/
+web/node_modules/
+web/dist/
+.claude/
+*.tsbuildinfo
